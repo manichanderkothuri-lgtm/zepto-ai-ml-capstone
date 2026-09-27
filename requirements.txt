@@ -1,0 +1,16 @@
+requests
+beautifulsoup4
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+imbalanced-learn
+joblib
+jupyter
+fastapi
+uvicorn[standard]
+pydantic
+sentence-transformers
+chromadb
+langgraph
